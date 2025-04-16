@@ -12,7 +12,7 @@ NeoApp.controller("Home_Ctrl", function($scope,$rootScope,$route,$timeout,$filte
 $App.NAB.PageNumber = 1;
 $App.NAB.PageID = "Home";
 $scope.PushButton3_click = function() {$scope.GotoPage( "TT0pricelist1" );};
-$scope.PushButton4_click = function() {$scope.GotoPage( "TT0pricelist1" );};
+$scope.PushButton4_click = function() {$scope.GotoPage( "Cab-Prices" );};
 });
 NeoApp.controller("TT0pricelist1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;
