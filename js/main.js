@@ -16,6 +16,7 @@ $scope.PushButton3_click = function() {$scope.GotoPage( "TT03pricelist1" );};
 $scope.PushButton4_click = function() {$scope.GotoPage( "Cab-Prices" );};
 $scope.PushButton8_click = function() {$scope.GotoPage( "TT04pricelist1" );};
 $scope.PushButton9_click = function() {$scope.GotoPage( "TT04pricelist1" );};
+$scope.PushButton10_click = function() {window.document.location.reload();};
 });
 NeoApp.controller("TT04pricelist1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;

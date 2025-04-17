@@ -9,6 +9,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton8 {position:absolute;left:56px;top:222px;width:118px;height:55px;margin:0;}
 #PushButton9 {position:absolute;left:56px;top:222px;width:118px;height:55px;margin:0;}
 #Headline19 {position:absolute;left:107px;top:66px;width:188px;height:25px;margin:0;font-size:12pt;font-weight:400;text-align:center}
+#PushButton10 {position:absolute;left:306px;top:8px;width:91px;height:31px;margin:0;font-size:7pt}
 #TT04pricelist1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #Headline2 {position:absolute;left:100px;top:42px;width:217px;height:50px;margin:0;}
 #Headline3 {position:absolute;left:35px;top:94px;width:90px;height:50px;margin:0;}
